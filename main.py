@@ -1,6 +1,4 @@
-#REZA EBADI
-#4002023025
-#8VAZIR
+
 def find_all_possibilities(lst, i):
     if (i > u) or (len(lst) == o):
         possibilities.append(lst)
